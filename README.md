@@ -1,2 +1,1 @@
-hi
 ![hello](banner.jpeg)
